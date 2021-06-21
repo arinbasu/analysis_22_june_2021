@@ -1,0 +1,45 @@
+Logging to /tmp/tmpkd8q6wll/output.log
+Project: HDobp9esym9MfAfUOUXv
+Block: 2hoGJRdanScfKKumyiGX
+Version: 1
+Prepping Format: tex
+Accessing API at https://api.curvenote.com
+Redirections use SITE_URL at https://curvenote.com
+Received user_auth token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQXJpbmRhbSBCYXN1IiwicGljdHVyZSI6Imh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9pb294YS1wcm9kLTEuYXBwc3BvdC5jb20vcGhvdG9zL1pqM2hEZEdxQXpWYjRyNUhZMU5DQ1FlSjBoazI_dmVyc2lvbj0xNjIzOTg2MTU0NTE3IiwidXNlcl9pZCI6IlpqM2hEZEdxQXpWYjRyNUhZMU5DQ1FlSjBoazIiLCJlbWFpbCI6ImFyaW5fYmFzdUBwbS5tZSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJpYXQiOjE2MjQzMTIxMjIsImV4cCI6MTYyNDM5ODUyMiwiYXVkIjoiaHR0cHM6Ly9hcGkuY3VydmVub3RlLmNvbSIsImlzcyI6Imh0dHBzOi8vdG9rZW5zLmN1cnZlbm90ZS5kZXYvaW9veGEtcHJvZC0xIiwic3ViIjoiWmozaERkR3FBelZiNHI1SFkxTkNDUWVKMGhrMiJ9.Hx4citY6ZHucOwIpH_CB6_-SEU2tY3atO1Hj0vHhNoQ
+Retrieved user object for arinbasu
+id='Zj3hDdGqAzVb4r5HY1NCCQeJ0hk2' username='arinbasu' display_name='Arindam Basu' bio='Professor. Data Scientist. Epidemiologist. Surgeon.' location='' website='https://www.medium.com/@arinbasu' github='arinbasu' twitter='arinbasu' affiliation='University of Canterbury' orcid='0000-0003-2326-2292' date_created=datetime.datetime(2021, 6, 8, 12, 47, 23, 141000, tzinfo=datetime.timezone.utc) links=MyUserLinks(self=AnyHttpUrl('https://api.curvenote.com/users/Zj3hDdGqAzVb4r5HY1NCCQeJ0hk2', scheme='https', host='api.curvenote.com', tld='com', host_type='domain', path='/users/Zj3hDdGqAzVb4r5HY1NCCQeJ0hk2'), photo=AnyHttpUrl('https://storage.googleapis.com/iooxa-prod-1.appspot.com/photos/Zj3hDdGqAzVb4r5HY1NCCQeJ0hk2?version=1623986154517', scheme='https', host='storage.googleapis.com', tld='com', host_type='domain', path='/iooxa-prod-1.appspot.com/photos/Zj3hDdGqAzVb4r5HY1NCCQeJ0hk2', query='version=1623986154517'), projects=AnyHttpUrl('https://api.curvenote.com/my/projects', scheme='https', host='api.curvenote.com', tld='com', host_type='domain', path='/my/projects'), access=AnyHttpUrl('https://api.curvenote.com/my/access', scheme='https', host='api.curvenote.com', tld='com', host_type='domain', path='/my/access'), banner=AnyHttpUrl('https://storage.googleapis.com/iooxa-prod-1.appspot.com/banner/Zj3hDdGqAzVb4r5HY1NCCQeJ0hk2/8c6dd6ca157348d181f2285ddff4640e.png', scheme='https', host='storage.googleapis.com', tld='com', host_type='domain', path='/iooxa-prod-1.appspot.com/banner/Zj3hDdGqAzVb4r5HY1NCCQeJ0hk2/8c6dd6ca157348d181f2285ddff4640e.png')) email='arin_basu@pm.me' email_verified=True
+Accessing project: HDobp9esym9MfAfUOUXv
+Found project: project-june-22
+Accessing article block: 2hoGJRdanScfKKumyiGX
+get_block
+got block Article:2hoGJRdanScfKKumyiGX
+Pulling content at tex
+Creating /tmp/tmpkd8q6wll/assets/images
+Creating /tmp/tmpkd8q6wll/documents
+add_article
+created article
+article.fetch
+get_block
+article.fetch got block
+Processing Article: HDobp9esym9MfAfUOUXv/2hoGJRdanScfKKumyiGX/versions/1
+fetch complete
+Localizing referenced content
+Localized authors
+Found: Content Block
+Found: Output Block - num outputs: 1
+Output Summary text
+Found: Content Block
+Localized content and references
+localize complete
+number of articles 0
+generate filename 0_article-june-11
+appended article documents/0_article-june-11
+writing to /tmp/tmpkd8q6wll
+Writing articles...
+Copying template assets
+Copying: curvenote_paper.sty to /tmp/tmpkd8q6wll/curvenote_paper.sty
+Copying: logo-horizontal-dark.png to /tmp/tmpkd8q6wll/logo-horizontal-dark.png
+Rendering template...
+Writing index.tex...
+Writing main.bib...
+Done!
