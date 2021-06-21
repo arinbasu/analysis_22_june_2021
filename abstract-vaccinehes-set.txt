@@ -1,0 +1,349 @@
+1. Hum Vaccin Immunother. 2019;15(4):918-931. doi: 10.1080/21645515.2018.1564437. 
+Epub 2019 Feb 20.
+
+Knowledge, attitudes and beliefs towards compulsory vaccination: a systematic 
+review.
+
+Gualano MR(1), Olivero E(1), Voglino G(1), Corezzi M(1), Rossello P(1), 
+Vicentini C(1), Bert F(1), Siliquini R(1).
+
+Author information:
+(1)a Department of Public Health Sciences , University of Turin , Turin , Italy.
+
+Comment in
+    Hum Vaccin Immunother. 2020;16(1):128-130.
+    Hum Vaccin Immunother. 2020;16(1):131.
+
+Currently, many countries are dealing with groups refusing available recommended 
+vaccinations. Despite several studies having demonstrated the efficacy of 
+mandatory vaccinations in ensuring herd immunity, opposition is widespread. The 
+aim of our study was to systematically review published studies evaluating 
+attitudes towards mandatory vaccination programs. PubMed and Scopus scientific 
+databases were searched and 4,198 results were returned, of these 29 met the 
+inclusion criteria. Twenty-two studies assessed attitudes towards mandatory 
+vaccination programs in general, while 9 papers focused specifically on the 
+Human Papilloma Virus (HPV) vaccine. Most of the studies were performed in 
+Europe and North America. According to the assessed studies, the majority of the 
+population seems to be in favour of compulsory vaccinations, although attitudes 
+differed among studies. The results presented in this review could be an 
+important starting point to further understand the issue of vaccine hesitancy 
+and support the implementation of effective vaccination strategies.
+
+DOI: 10.1080/21645515.2018.1564437
+PMCID: PMC6605844
+PMID: 30633626 [Indexed for MEDLINE]
+
+
+2. Hum Vaccin Immunother. 2020 Jul 2;16(7):1511-1520. doi: 
+10.1080/21645515.2019.1706935. Epub 2020 Jan 24.
+
+Vaccine hesitancy and the resurgence of vaccine preventable diseases: the way 
+forward for Malaysia, a Southeast Asian country.
+
+Wong LP(1), Wong PF(2), AbuBakar S(3)(4)(5).
+
+Author information:
+(1)Centre for Epidemiology and Evidence-Based Practice, Department of Social and 
+Preventive Medicine, Faculty of Medicine, University of Malaya , Kuala Lumpur, 
+Malaysia.
+(2)Department of Pharmacology, Faculty of Medicine, University of Malaya , Kuala 
+Lumpur, Malaysia.
+(3)Department of Medical Microbiology, Faculty of Medicine, University of Malaya 
+, Kuala Lumpur, Malaysia.
+(4)Tropical Infectious Diseases Research and Educational Centre (TIDREC), 
+University of Malaya , Kuala Lumpur, Malaysia.
+(5)WHO Collaborating Centre for Arbovirus Reference and Research (Dengue and 
+Severe Dengue) MAA-12, University of Malaya , Kuala Lumpur, Malaysia.
+
+This study engaged health professionals in in-depth, semi-structured interviews 
+to explore their opinions concerning the issues surrounding vaccine hesitancy in 
+Malaysia and strategies to improve vaccination to stamp the rise of vaccine 
+preventable diseases (VPDs). Opinions on how to address the resurgence of VPDs 
+in the era of increasing vaccine hesitancy were obtained. Eight health 
+professionals, including geriatricians, pediatricians, microbiologists, public 
+health specialists, and family medicine specialists were interviewed. The 
+influence of anti-vaccination propaganda, past-experience of adverse event 
+following immunization (AEFI), perceived religious prohibition, a belief that 
+traditional complementary and alternative medicine (TCAM) use is safer, 
+pseudoscience beliefs, and anti-vaccine conspiracy theories were identified as 
+reasons for refusing to vaccinate. The interplay of social, cultural and 
+religious perspectives in influencing perceived religious prohibition, 
+pseudoscience beliefs, and the use of TCAM contributing to vaccine refusal was 
+found. Five broad themes emerged from the health professionals regarding 
+strategies to address vaccine hesitancy, including establishing an electronic 
+vaccination registry, increasing public awareness initiatives, providing 
+feedback to the public on the findings of AEFI, training of front-line 
+healthcare providers, and banning the dissemination of anti-vaccine information 
+via social media. With regards to identifying strategies to address the 
+resurgence of VPDs, mandatory vaccination received mixed opinions; many viewed 
+supplementary immunization activity and the prevention of travel and migration 
+of unvaccinated individuals as being necessary. In conclusion, the present study 
+identified unique local cultural, traditional and religious beliefs that could 
+contribute to vaccine hesitancy in addition to issues surrounding vaccination 
+refusal similarly faced by other countries around the world. This information 
+are important for the formulation of targeted intervention strategies to stamp 
+vaccine hesitancy in Malaysia which are also a useful guide for other countries 
+especially in the Southeast Asia region facing similar vaccine hesitancy issues.
+
+DOI: 10.1080/21645515.2019.1706935
+PMCID: PMC7482793
+PMID: 31977285
+
+
+3. Vaccines (Basel). 2020 Jan 30;8(1):57. doi: 10.3390/vaccines8010057.
+
+The Impact of Mandatory Vaccination Law in Italy on MMR Coverage Rates in Two of 
+the Largest Italian Regions (Emilia-Romagna and Sicily): An Effective Strategy 
+to Contrast Vaccine Hesitancy.
+
+Gori D(1), Costantino C(2), Odone A(3), Ricci B(4), Ialonardi M(4), Signorelli 
+C(3), Vitale F(2), Fantini MP(1).
+
+Author information:
+(1)Department of Biomedical and Neuromotor Sciences, University of Bologna, 
+40138 Bologna, Italy.
+(2)Department of Health Promotion Sciences, Maternal and Infant Care, Internal 
+Medicine and Medical Specialties (PROMISE), University of Palermo, 90127 
+Palermo, Italy.
+(3)School of Medicine, University Vita-Salute San Raffaele, 20132 Milan, Italy.
+(4)School of Hygiene and Preventive Medicine, University of Bologna, 40138 
+Bologna, Italy.
+
+BACKGROUND: Vaccine hesitancy has increased worldwide, leading to reduction in 
+vaccination coverage rates. In particular, reduction in the coverage for the 
+trivalent Measles-Mumps-Rubella vaccine has led to an increase of measles cases. 
+The aim of this study is to analyze the coverage rates for the MMR vaccine in 
+the Emilia-Romagna Region (RER) and Sicily Region (SR) between 2009 and 2018, 
+and to correlate any significant change to index events which could have 
+modified the trend of vaccination rates.
+METHODS: Official aggregate data on vaccination coverage at 24 months provided 
+by the RER and the SR were analyzed through trend analysis and related to 
+important index events.
+RESULTS: The two regions showed similar results; both achieved the lowest 
+coverage rates in 2015 and both showed an increase in the rates after the 
+introduction of mandatory vaccinations for access to schools. In 2018, both 
+reached the starting point before the decrease.
+CONCLUSION: Our results confirm the effectiveness of legislative coercive 
+measures in favor of vaccination. A potential decrease in the coverage rates may 
+be observed as a result of an attenuation of the positive effects of coercive 
+measures over time. It is thus necessary to combine these measures together with 
+information campaigns and political initiatives at different levels (i.e. 
+national, regional).
+
+DOI: 10.3390/vaccines8010057
+PMCID: PMC7158674
+PMID: 32019092
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. Vaccine. 2020 Nov 17;38(49):7865-7873. doi: 10.1016/j.vaccine.2020.09.063. Epub 
+2020 Oct 21.
+
+Global assessment of national mandatory vaccination policies and consequences of 
+non-compliance.
+
+Gravagna K(1), Becker A(2), Valeris-Chacin R(3), Mohammed I(1), Tambe S(1), Awan 
+FA(4), Toomey TL(1), Basta NE(5).
+
+Author information:
+(1)Division of Epidemiology and Community Health, School of Public Health, 
+University of Minnesota, 1300 Second Street South, Suite 300, Minneapolis, MN 
+55454, United States.
+(2)Division of Biostatistics, School of Public Health, University of Minnesota, 
+A460 Mayo Building, MMC 303, 420 Delaware St. SE, Minneapolis, MN 55455, United 
+States.
+(3)College of Veterinary Medicine, 301 Veterinary Science Building, 1971 
+Commonwealth Avenue, Saint Paul, MN 55108, United States.
+(4)Biomedical Ethics Unit, School of Population and Global Health, Faculty of 
+Medicine, McGill University, 3647 Peel St, Montreal, Quebec H3A 1X1, Canada.
+(5)Department of Epidemiology, Biostatistics, and Occupational Health, School of 
+Population and Global Health, Faculty of Medicine, McGill University, Montreal, 
+Quebec H3A 1A2, Canada. Electronic address: Nicole.basta@mcgill.ca.
+
+BACKGROUND: Declining vaccination coverage and increasing hesitancy is a 
+worldwide concern. Many countries have implemented mandatory vaccination 
+policies to promote vaccination. However, mandatory vaccination policies differ 
+significantly by country. Beyond case studies, no comprehensive study has 
+compared these policies or the penalties for non-compliance on a global scale.
+METHODS: We conducted extensive keyword, policy, and literature searches to 
+identify mandatory national vaccination policies globally and develop a 
+comprehensive database. A mandatory national vaccination policy was defined as a 
+policy from a national authority that requires individuals to receive at least 
+one vaccination based on age or to access a service. Two reviewers independently 
+evaluated evidence for a mandate and whether non-compliance penalties were 
+incorporated. We categorized penalties into four types, based on the nature of 
+the penalty. These penalties impact an individual's financial, parental rights, 
+educational (i.e., child's school entry and access), and liberty status. We 
+rated the severity within each category.
+RESULTS: Of 193 countries investigated, 54% (n = 105) had evidence of a 
+nationwide mandate as of December 2018. The frequency, types, and severity of 
+penalties varied widely across all regions. We found that 59% (n = 62) of 
+countries with national mandates defined at least one penalty for non-compliance 
+with a vaccine mandate. Among those, educational penalties (i.e., limiting a 
+child's entry or ongoing access to school) were the most common (69%; n = 43), 
+with most countries with educational penalties refusing school enrollment until 
+vaccination requirements are met (81%; n = 35).
+CONCLUSION: We undertook a comprehensive assessment of national mandatory 
+vaccination policies and identified a diversity of penalties in place to promote 
+compliance. Our results highlight the need to critically evaluate the 
+implementation of non-compliance penalties in order to determine their 
+effectiveness and to define best practices for sustaining high vaccination 
+uptake worldwide.
+
+Copyright © 2020 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2020.09.063
+PMID: 33164808 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare the following financial interests/personal relationships which may be 
+considered as potential competing interests: All authors have completed the 
+ICMJE uniform disclosure form at www.icmje.org/coi_disclosure.pdf and have no 
+conflicts of interest to declare. NEB has received research grants from the US 
+National Institute of Allergy and Infectious Diseases of the US National 
+Institutes of Health; KG had financial support from the Grand Challenges 
+Undergraduate Research Opportunity Program (UROP) of the University of 
+Minnesota; there are no other relationships or activities that could appear to 
+have influenced the submitted work.
+
+
+5. Eur J Pediatr. 2020 Apr;179(4):683-687. doi: 10.1007/s00431-019-03523-4. Epub 
+2019 Nov 26.
+
+Mandatory vaccination: a joint statement of the Ethics and Vaccination working 
+groups of the European Academy of Paediatrics.
+
+Hadjipanayis A(1)(2)(3), Dornbusch HJ(4)(5), Grossman Z(4)(6), Theophilou L(7), 
+Brierley J(4)(8).
+
+Author information:
+(1)Department of Paediatrics, Larnaca General Hospital, Larnaca, Cyprus. 
+adamos@paidiatros.com.
+(2)Medical School, European University of Cyprus, Nicosia, Cyprus. 
+adamos@paidiatros.com.
+(3)European Academy of Paediatrics, Brussels, Belgium. adamos@paidiatros.com.
+(4)European Academy of Paediatrics, Brussels, Belgium.
+(5)Medical University of Graz, Graz, Austria.
+(6)Pediatric Clinic, Maccabi Healthcare Services, Tel Aviv, Israel.
+(7)Paediatrics University of Nicosia, Arch. Makarios III Hospital, Nicosia, 
+Cyprus.
+(8)Paediatric Bioethics Centre & Paediatric Intensive Care, Great Ormond Street 
+Institute of Child Health, NIHR Great Ormond Street Hospital Biomedical Research 
+Centre, University College London, London, WC1N 1EH, UK.
+
+Vaccinating children is amongst the most cost-effective interventions for 
+reducing children's morbidity and mortality. Parents who choose not to vaccinate 
+their children despite having been informed about the evidence on safety and 
+efficacy of vaccines may seriously jeopardise the health of both their own 
+children and others. Contemporary ethical thinking about the limits of parental 
+decision-making over their children's healthcare treatment often considers the 
+zone of parental discretion. However, with vaccination this is slightly less 
+direct as the benefits are not only accumulated by an individual child but also 
+by children as a population. Forcing parents is of course not the only solution 
+to counteracting the fear of vaccines. Health authorities should certainly fund 
+research and deploy resources on combatting vaccine disinformation.Conclusion: 
+It would be preferable to achieve high rates of vaccination coverage by 
+educating both parents and physicians without adopting any legislation for 
+mandatory vaccination. However, in countries where vaccination uptake is low 
+and/or outbreaks of vaccine-preventable diseases occur, the implementation of 
+mandatory vaccination will most probably save children's lives. EAP calls for 
+action to make all scheduled childhood vaccinations a matter of fact for all 
+European children.
+
+DOI: 10.1007/s00431-019-03523-4
+PMID: 31773329 [Indexed for MEDLINE]
+
+
+6. Ann Ig. 2019 May-Jun;31(3):191-201. doi: 10.7416/ai.2019.2282.
+
+Polio and measles: reasons of missed vaccination in Italy, 2015-2017.
+
+Gianfredi V(1), D'Ancona F(2), Maraglino F(3), Cenci C(3), Iannazzo S(3).
+
+Author information:
+(1)Postgraduate School of Hygiene and Preventive Medicine, Department of 
+Experimental Medicine. University of Perugia, Italy - National Institutes of 
+Health, Rome, Italy.
+(2)National Institutes of Health, Rome, Italy.
+(3)Ministry of Health, Rome, Italy.
+
+BACKGROUND: Also in Italy, a flourishing evidence confirms the recent spread of 
+vaccine hesitancy movements resulting in approximately 4-7% of the paediatric 
+population not immunised every year against polio and approximately 9-15% 
+against measles in the last few years. The aim of this paper is to describe the 
+reasons of polio and measles missed vaccination in Italy, in the period 
+2015-2017, and to analyse any potential effect of the 2017 mandatory vaccination 
+law.
+METHODS: Number of missed vaccinations in children younger than 24 months, 
+stratified by reason, were collected separately for measles and polio with a 
+regional level of detail. Data were collected using an electronic form developed 
+using Microsoft Excel®.
+RESULTS: The most frequent reason for missed polio vaccination was "definitive 
+informed dissent" with a mean value 1.5%, followed by "found/contacted, but did 
+not attend the appointment" with a mean value 1.3%. Inversely, "acquired 
+immunity subsequent to previous disease or vaccination performed elsewhere" and 
+"excused in a permanent way for health conditions" were the less frequent with a 
+mean value 0.03% for both. For measles vaccination the reason "found/contacted, 
+but did not attend the appointment" was the most frequent (mean value 3.2%), 
+followed by "definitive informed dissent" (mean value 2.9%).
+CONCLUSIONS: Percentage of missed vaccination showed a remarkable reduction in 
+2017. This decrease is likely due to the introduction of mandatory vaccination 
+law. In point of fact, "Dissent" decreased for both polio and measles during the 
+study period. While, "Delay" increased during the 3-years. It seems that 
+hesitant parents prefer to postpone vaccinations instead of refusing them. 
+Counselling, parents' empowerment and vaccine education are central to contrast 
+vaccination postponing. Thus, for parents who refuse vaccines ("Dissent"), 
+monitoring the trend is important as well as trying to understand their reasons.
+
+DOI: 10.7416/ai.2019.2282
+PMID: 31069364 [Indexed for MEDLINE]
+
+
+7. Euro Surveill. 2019 Jun;24(25):1900053. doi: 
+10.2807/1560-7917.ES.2019.24.25.1900053.
+
+Population perception of mandatory childhood vaccination programme before its 
+implementation, France, 2017.
+
+Mathieu P(1), Gautier A(2), Raude J(3), Goronflot T(1), Launay T(1), Debin M(1), 
+Guerrisi C(1), Turbelin C(1), Hanslik T(4)(5)(1), Jestin C(2), Colizza V(1), 
+Blanchon T(1), Rossignol L(1).
+
+Author information:
+(1)Sorbonne Universités, INSERM, Institut Pierre Louis d'épidémiologie et de 
+Santé Publique (IPLESP), F-75012, Paris, France.
+(2)Santé Publique France, Saint-Maurice, France.
+(3)EHESP Rennes, Université Sorbonne Paris Cité, France.
+(4)Service de Médecine Interne, Hôpital Ambroise Paré, Assistance Publique - 
+Hôpitaux de Paris, APHP, FR-92100, Boulogne Billancourt, France.
+(5)Université de Versailles Saint-Quentin-en-Yvelines, UVSQ, UFR de Médecine, 
+FR-78000, Versailles, France.
+
+BackgroundVaccination policy in France was previously characterised by the 
+coexistence of eight recommended and three mandatory vaccinations for children 
+younger than 2 years old. These 11 vaccines are now mandatory for all children 
+born after 1 January 2018.AimTo study the French population's opinion about this 
+new policy and to assess factors associated with a positive opinion during this 
+changing phase.MethodsA cross-sectional survey about vaccination was conducted 
+from 16 November-19 December 2017 among the GrippeNet.fr cohort. Data were 
+weighted for age, sex and education according to the French population. 
+Univariate and multivariate analyses were performed to identify factors 
+associated with a favourable opinion on mandatory vaccines' extension and 
+defined in the '3Cs' model by the World Health Organization Strategic Advisory 
+Group of Experts working group on vaccine hesitancy.ResultsOf the 3,222 
+participants (response rate 50.5%) and after adjustment, 64.5% agreed with the 
+extension of mandatory vaccines. It was considered a necessary step by 68.7% of 
+the study population, while 33.8% considered it unsafe for children and 56.9% 
+saw it as authoritarian. Factors associated with a positive opinion about the 
+extension of mandatory vaccines were components of the confidence, complacency 
+and convenience dimensions of the '3Cs' model.ConclusionsIn our sample, two 
+thirds of the French population was in favour of the extension of mandatory 
+vaccines for children. Perception of vaccine safety and benefits were major 
+predictors for positive and negative opinions about this new policy.
+
+DOI: 10.2807/1560-7917.ES.2019.24.25.1900053
+PMCID: PMC6593904
+PMID: 31241041 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of interest: None declared.
